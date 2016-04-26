@@ -1,0 +1,4 @@
+testcenter_20150818
+psql -U postgres PerfHubDB< C:\databasename.bak
+
+\\shc-entps-002 连接到打印机

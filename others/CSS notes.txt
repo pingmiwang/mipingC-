@@ -1,0 +1,14 @@
+question:
+1 div布局跟table布局有什么差别
+2 float跟colum有什么差别
+3 float并没有设置页脚，也会跟着浮动，是什么原因
+
+
+notes:
+bootstrap 引入
+   <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
